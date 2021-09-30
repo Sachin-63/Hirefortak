@@ -1,5 +1,5 @@
 import React from 'react'
-import report1 from '../logos/report1.png'
+
 
 const ReportCard = (props) => {
     return (

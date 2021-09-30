@@ -1,5 +1,5 @@
 import React from 'react'
-import ganesh from '../logos/ganesh.png'
+
 import offer1 from '../logos/offer1.png'
 import offer2 from '../logos/offer2.png'
 import offer3 from '../logos/offer3.png'

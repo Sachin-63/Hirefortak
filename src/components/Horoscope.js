@@ -1,5 +1,4 @@
 import React from 'react'
-import ganesh from '../logos/ganesh.png'
 import zodiac1 from '../logos/zodiac1.png' 
 import zodiac2 from '../logos/zodiac2.png' 
 import zodiac3 from '../logos/zodiac3.png' 

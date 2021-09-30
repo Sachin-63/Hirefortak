@@ -1,8 +1,8 @@
-import React, { useRef } from 'react'
+import React from 'react'
 import search from '../logos/search.png'
 import filter from '../logos/filter.png'
 import sort from '../logos/sort.png'
-import AstrologerCard from './AstrologerCard'
+
 import AstrologersPageCard from './AstrologersPageCard'
 import astrologer1 from '../logos/astrologer1.png'
 import astrologer2 from '../logos/astrologer2.png'
@@ -12,12 +12,6 @@ import astrologer5 from '../logos/astrologer5.png'
 
 
 const AstrologersPage = () => {
-
-    const refdd = useRef(null)
-
-    const handledd = () => {
-        refdd.current.click();
-    }
 
     return (
         <>

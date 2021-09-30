@@ -1,5 +1,4 @@
 import React from 'react'
-import ganesh from '../logos/ganesh.png'
 
 
 const AstrologerCard = (props) => {

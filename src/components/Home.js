@@ -6,7 +6,7 @@ import Astrologers from './Astrologers'
 import Reports from './Reports'
 import Question from './Question'
 import Reviews from './Reviews'
-import Footer from './Footer'
+
 
 const Home = () => {
     return (

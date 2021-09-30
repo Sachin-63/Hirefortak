@@ -1,8 +1,6 @@
 import React from 'react'
 import ReportCard from './ReportCard'
 import report1 from '../logos/report1.png'
-import report2 from '../logos/report2.png'
-import report3 from '../logos/report3.png'
 
 
 const Reports = () => {
