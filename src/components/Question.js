@@ -14,7 +14,7 @@ const Question = () => {
                     <div className="mx-2 my-2"><strong>Choose Category</strong></div>
                 </div>
                 <div className="container ">
-                    <select class="form-select mb-3" aria-label="Default select example">
+                    <select className="form-select mb-3" aria-label="Default select example">
                         <option value="0">Select a Category: Love, Bussiness, etc</option>
                         <option value="1">Love</option>
                         <option value="2">Bussiness</option>
