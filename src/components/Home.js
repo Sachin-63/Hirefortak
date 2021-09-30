@@ -27,8 +27,10 @@ const Home = () => {
             <Reviews/>
 
             <div className="container mb-5 mt-4">
-                <p className="" style={{fontSize:"80%",color:"#949494"}}>&copy; Copyright 2020 All Rights Reserved</p>
+                <p className="mt-4" style={{fontSize:"80%",color:"#949494",lineHeight:"15px"}}>&copy; Copyright 2020 All Rights Reserved<br/>&copy; Copyright 2020 All Rights Reserved</p>
             </div>
+
+            
             
             
         </div>
